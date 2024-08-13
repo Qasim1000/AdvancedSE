@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\account management.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\account management.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\account management.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\account management.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\banksystemc#\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\account_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\account_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\account management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\account management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\banksystemc#\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|c:\\users\\saami\\desktop\\projects\\resits\\se\\bank 2\\bank 2\\bank1\\banksystemc#\\banksystemc#\\account_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\account_information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\banksystemc#\\account management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96E3BFB0-B675-467E-8C59-C1B5A541F139}|BankSystemc#\\BankSystemc#.csproj|solutionrelative:banksystemc#\\account management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account Management.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account Management.Designer.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Account Management.Designer.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account Management.Designer.cs",
+              "RelativeToolTip": "BankSystemc#\\Account Management.Designer.cs",
+              "ViewState": "AQIAAHUAAAAAzczMzEwgwFsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:52:45.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account Management.resx",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account Management.resx",
+              "RelativeDocumentMoniker": "BankSystemc#\\Account Management.resx",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account Management.resx",
+              "RelativeToolTip": "BankSystemc#\\Account Management.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-13T09:55:40.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\CreateAccount.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\CreateAccount.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\CreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:55:31.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account_Information.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account_Information.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Account_Information.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account_Information.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\Account_Information.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T09:55:25.228Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Form1.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Form1.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Form1.cs",
+              "RelativeToolTip": "BankSystemc#\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:30:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\CreateAccount.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\CreateAccount.cs",
+              "RelativeToolTip": "BankSystemc#\\CreateAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:28:22.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Delete.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Delete.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Delete.cs",
+              "RelativeToolTip": "BankSystemc#\\Delete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:29:08.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Delete.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Delete.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Delete.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\Delete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:29:01.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\AccountService.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\AccountService.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\AccountService.cs",
+              "RelativeToolTip": "BankSystemc#\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:28:11.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\AccountService.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\AccountService.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\AccountService.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\AccountService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:28:05.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account Management.cs",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account Management.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Account Management.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account Management.cs",
+              "RelativeToolTip": "BankSystemc#\\Account Management.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:22:31.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Program.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Program.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Program.cs",
+              "RelativeToolTip": "BankSystemc#\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:32:59.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Account_Information.cs",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account_Information.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Account_Information.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account_Information.cs",
+              "RelativeToolTip": "BankSystemc#\\Account_Information.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAhwAgAAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T08:22:48.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Account Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account Management.cs",
+              "RelativeDocumentMoniker": "BankSystemc#\\Account Management.cs",
+              "ToolTip": "C:\\Users\\saami\\Desktop\\Projects\\Resits\\SE\\Bank 2\\Bank 2\\bank1\\BankSystemC#\\BankSystemc#\\Account Management.cs [Design]",
+              "RelativeToolTip": "BankSystemc#\\Account Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T07:35:02.661Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
